@@ -1,9 +1,12 @@
 //Elmo lisää kielen ja titlen
 <!DOCTYPE html>
 <html>
+<html lang="en">
+
 <head>
-<title>Page Title</title>
+  <title>Otsikko</title>
 </head>
+
 <body>
 
 //Onni lisää näihin tekstiä
